@@ -1,0 +1,52 @@
+
+
+.container {
+    background-color: black;
+    width: 80%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+h1 {
+    font-family: sans-serif;
+    color: white;
+    text-align: center;
+    
+}
+.cat {
+    height: 200px;
+    margin: 2%;
+}
+
+.set1 {
+    margin-left: 1%;
+    margin-right: 1%;
+}
+
+.back1 {
+    display: flex;
+    background-color: aquamarine;
+    justify-content: space-between;
+}
+
+.set2 {
+    margin:1%;
+}
+
+.back2 {
+    display: flex;
+    background-color: rgb(136, 21, 146);
+    justify-content:space-evenly;
+
+}
+
+.set3 {
+    margin-left: 1%;
+    margin-right: 1%;
+}
+
+.back3 {
+    display: flex;
+    background-color: aquamarine;
+    justify-content: space-between;
+}
